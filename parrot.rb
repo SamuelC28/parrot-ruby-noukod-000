@@ -1,4 +1,4 @@
 def parrot (str)
-str = Squawk!
-end# returns the phrase
+  str = "Squawk!"
+end 
 puts str
